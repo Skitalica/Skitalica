@@ -2,7 +2,7 @@
   <img width="400" height="250" src="https://github.com/Skitalica/Skitalica/blob/main/aN5.gif"  alt="animated" />
 </p>
 
-### <p align="center">Привет, меня зовут Татьяна! 👋</p>
+### <p align="center">Привет, меня зовут Татьяна и я аналитик! 👋</p>
 
 ---
 
